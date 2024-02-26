@@ -1,3 +1,12 @@
+# OoT Reloaded (SoH) (UI Only)
+Ocarina of Time Reloaded's UI textures only.
+
+I made this fork because, as amazing and beautiful as GhostlyDark's OoTR is, I just love those crispy, 1998 graphics... except for the UI. The eye-bleeding text, the blurry, unclear images... it just doesn't work on a modern, high definition screen! Hopefully this will serve as the best of both worlds.
+
+Original Readme:
+
+---
+
 # OoT Reloaded (SoH)
 Ocarina of Time Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/OoT-Reloaded), [Dolphin](https://github.com/GhostlyDark/OoT-Reloaded-Dolphin) and Ship of Harkinian.
 
